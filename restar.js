@@ -1,4 +1,4 @@
-const restar = function(a,b) {
+const restar = function (a,b) {
     return a -b
 }
 
